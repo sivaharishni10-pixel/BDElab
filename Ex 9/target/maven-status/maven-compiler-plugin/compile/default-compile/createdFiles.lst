@@ -1,5 +1,0 @@
-com\ifet\exp9\service\EmployeeService.class
-com\ifet\exp9\controller\EmployeeController.class
-com\ifet\exp9\EmployeeCrudApplication.class
-com\ifet\exp9\repository\EmployeeRepository.class
-com\ifet\exp9\model\Employee.class
